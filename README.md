@@ -21,3 +21,6 @@ occorenze e prepare il file di output con le dovute soglie per ogni valore e le 
 funzioni che ci permettono di lavorare con stringhe e numeri facendo conversioni,
 ovvero ITOA e ATOI
 
+
+
+Prendi un file di testo con dei dati e poi fai il confronto
