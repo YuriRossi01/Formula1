@@ -12,5 +12,12 @@ OBIETTIVO:
 Si descriva un programma Assembly che restituisca i dati relativi al solo pilota indicato
 nella prima riga del file, in base alle soglie indicate.
 
-
+DESCRIZIONE SCELTE PROCEDURALI FATTE:
+Per la realizzazione del progetto abbiamo deciso di scrivere tutte le funzioni,
+create per semplificare la scrittura del codice, nel file principale telemetry.s.
+Le funzioni principali sono: Read_pilot, che usiamo per individuare il pilota da
+monitorare scritto nella prima riga del file di input, Chech_id che conta le
+occorenze e prepare il file di output con le dovute soglie per ogni valore e le due
+funzioni che ci permettono di lavorare con stringhe e numeri facendo conversioni,
+ovvero ITOA e ATOI
 
